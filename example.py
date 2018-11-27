@@ -1,4 +1,4 @@
-a = 40
+a = 10
 b = 12
 
 print('Swappin Two numbers!')
