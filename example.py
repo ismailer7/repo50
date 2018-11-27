@@ -1,4 +1,4 @@
-a = 20
+a = 100
 b = 12
 
 print('Swappin Two numbers!')
